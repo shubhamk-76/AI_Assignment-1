@@ -1,0 +1,197 @@
+[
+    {
+        "city": "Delhi",
+        "weather": "Hot",
+        "famous_food": [
+            "Chole Bhature",
+            "Butter Chicken",
+            "Aloo Tikki"
+        ],
+        "rating": 8.5,
+        "feedback":["Nice place"],
+        "budget": {
+            "min": 20000,
+            "max": 100000
+        }
+    },
+    {
+        "city": "Mumbai",
+        "weather": "Hot",
+        "famous_food": [
+            "Vada Pav",
+            "Pav Bhaji",
+            "Biryani"
+        ],
+        "rating": 9.0,
+        "feedback": ["Nice place"],
+        "budget": {
+            "min": 20000,
+            "max": 100000
+        }
+    },
+    {
+        "city": "Bangalore",
+        "weather": "Mild",
+        "famous_food": [
+            "Masala Dosa",
+            "Bisi Bele Bath",
+            "Puliyogare"
+        ],
+        "rating": 8.7,
+        "feedback": ["Nice place"],
+        "budget": {
+            "min": 20000,
+            "max": 100000
+        }
+    },
+    {
+        "city": "Kolkata",
+        "weather": "Hot",
+        "famous_food": [
+            "Rosogolla",
+            "Sondesh",
+            "Macher Jhol"
+        ],
+        "rating": 8.8,
+        "feedback":["Nice place"],
+        "budget": {
+            "min": 20000,
+            "max": 100000
+        }
+    },
+    {
+        "city": "Chennai",
+        "weather": "Hot",
+        "famous_food": [
+            "Dosa",
+            "Idli",
+            "Sambhar"
+        ],
+        "rating": 8.6,
+        "feedback":["Nice place"],
+        "budget": {
+            "min": 20000,
+            "max": 100000
+        }
+    },
+    {
+        "city": "Varanasi",
+        "weather": "Hot",
+        "famous_food": [
+            "Kachori",
+            "Jalebi",
+            "Lassi"
+        ],
+        "rating": 8.9,
+        "feedback": ["Nice place"],
+        "budget": {
+            "min": 15000,
+            "max": 90000
+        }
+    },
+    {
+        "city": "Patna",
+        "weather": "Hot",
+        "famous_food": [
+            "Litti Chokha",
+            "Aloo Chana",
+            "Peda"
+        ],
+        "rating": 8.4,
+        "feedback": ["Nice place"],
+        "budget": {
+            "min": 18000,
+            "max": 95000
+        }
+    },
+    {
+        "city": "Bodh Gaya",
+        "weather": "Hot",
+        "famous_food": [
+            "Khichdi",
+            "Sattu Drink",
+            "Bhutte ka Kees"
+        ],
+        "rating": 8.7,
+        "feedback":["Nice place"],
+        "budget": {
+            "min": 17000,
+            "max": 90000
+        }
+    },
+    {
+        "city": "Haridwar",
+        "weather": "Hot",
+        "famous_food": [
+            "Aloo Puri",
+            "Kachori",
+            "Jalebi"
+        ],
+        "rating": 8.3,
+        "feedback":["Nice place"],
+        "budget": {
+            "min": 15000,
+            "max": 80000
+        }
+    },
+    {
+        "city": "Rishikesh",
+        "weather": "Mild",
+        "famous_food": [
+            "Lassi",
+            "Thekua",
+            "Chaat"
+        ],
+        "rating": 8.6,
+        "feedback": ["Nice place"],
+        "budget": {
+            "min": 16000,
+            "max": 85000
+        }
+    },
+    {
+        "city": "Coimbatore",
+        "weather": "Mild",
+        "famous_food": [
+            "Idli",
+            "Dosa",
+            "Pongal"
+        ],
+        "rating": 8.5,
+        "feedback":["Nice place"],
+        "budget": {
+            "min": 18000,
+            "max": 95000
+        }
+    },
+    {
+        "city": "Tirupati",
+        "weather": "Hot",
+        "famous_food": [
+            "Laddu",
+            "Pulihora",
+            "Pesarattu"
+        ],
+        "rating": 8.9,
+        "feedback":["Nice place"],
+        "budget": {
+            "min": 20000,
+            "max": 90000
+        }
+    },
+    {
+        "city": "Dehradun",
+        "weather": "Cold",
+        "famous_food": [
+            "Chole Bhature",
+            "Butter Chicken",
+            "Aloo Tikki"
+        ],
+        "rating": 8.5,
+        "feedback": ["Nice place"],
+        "budget": {
+            "min": 20000,
+            "max": 100000
+        }
+    }
+]
